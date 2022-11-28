@@ -26,4 +26,8 @@ Rev. E, 63:0622702
 Comput. Mach. 2, 19-20
 
 [10] Skaˇcej, G, & Zannoni, C. (2021). The nematic-isotropic transition of the Lebwohl-Lasher model revisited. Philo-
-sophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences 379 [11] Wolff, U. (1989). Collective Monte Carlo Updating for Spin Systems. Phys. Rev. Lett. 62(4), 361 [12] Luijten, E. (2006). Introduction to Cluster Monte Carlo Algorithms, Lect. Notes Phys. 703, 13-38
+sophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences 379 
+
+[11] Wolff, U. (1989). Collective Monte Carlo Updating for Spin Systems. Phys. Rev. Lett. 62(4), 361 
+
+[12] Luijten, E. (2006). Introduction to Cluster Monte Carlo Algorithms, Lect. Notes Phys. 703, 13-38
